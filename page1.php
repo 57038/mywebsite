@@ -1,8 +1,9 @@
 <html>
       <head>
-            <title>ประวัติส่วนตัว</title>
+            <title>งานที่ 1 </title>
       </head>
       <body bgcolor="lightblue">
+            <h1>ประวัติส่วนตัว</h1>
                   <b>ชื่อ : </b> <i> น.ส.มลฑกาญจ์ บุญประสพ </i>
                   <br>
                   <b>ชื่อเล่น : </b> <i> สตางค์ </i>
