@@ -5,4 +5,4 @@
         <body bgcolor="lightblue">
                 <b>page1ธรรมดา - - - <b>page1 หนา</b>
         </body>
-</html>
+</html>                
