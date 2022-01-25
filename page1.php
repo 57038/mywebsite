@@ -1,7 +1,18 @@
 <html>
-        <head>
-                <title>งานที่ 1</title>
-        </head>
-        <body bgcolor="lightblue">
+      <head>
+            <title>ประวัติส่วนตัว</title>
+      </head>
+      <body bgcolor="lightblue">
+                  <b>ชื่อ : </b> <i> น.ส.มลฑกาญจ์  บุญประสพ </i>
+                  <br>
+                  <b>ชื่อเล่น : </b> <i> สตางค์ </i>
+                  <br>
+                  <b>ชั้น : </b> <i> ม.4/13 </i>
+                  <br>
+                  <b>เลขที่ : </b> <i> 21 </i>
+                  <br>
+                  <b>เลขประจำตัวนักเรียน : </b> <i> 57038 </i>
+                  <br>
+                  <b>โรงเรียน : </b> <i> หล่มสักวิทยาคม </i>
         </body>
 </html>
