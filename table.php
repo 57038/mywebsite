@@ -43,14 +43,14 @@
         <td>5</td>
         <td>김태형</td>
         <td>วี</td>
-        <td><img src="https://us-fbcloud.net/quiz/data/21/21693.image1.jpg" width="100px"></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/1117_V_%28BTS%29_Dispatch_Photo_Shoot_LA_%283%29_%28cropped%29.png" width="100px"></td>
         <td><a href="https://twitter.com/bts_twt">twitter</a></td>
      </tr>  
      <tr>
         <td>6</td>
         <td> 周震南</td>
         <td>หนานน่าน</td>
-        <td><img src="https://pin.it/5IHUslP" width="100px"></td>
+        <td><img src="https://twitter.com/cpuddingc/status/1269077145810137091/photo/1" width="100px"></td>
         <td><a href="https://twitter.com/R1SE_TH?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
      </tr>  
     </table>
