@@ -50,7 +50,7 @@
         <td>6</td>
         <td> 周震南</td>
         <td>หนานน่าน</td>
-        <td><img src="https://twitter.com/cpuddingc/status/1269077145810137091/photo/1" width="100px"></td>
+        <td><img src="https://i.pinimg.com/originals/52/b8/c1/52b8c1ed304af6f9c194ae02d1ee066d.jpg" width="100px"></td>
         <td><a href="https://twitter.com/R1SE_TH?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
      </tr>  
     </table>
