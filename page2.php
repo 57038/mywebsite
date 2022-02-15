@@ -5,8 +5,6 @@
 			#box{
 				width: 800px;
 				height: 350px;
-			}
-			.box{
 				background-color:#AFD7F6;
 			}
 			body{
